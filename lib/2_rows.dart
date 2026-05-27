@@ -29,8 +29,6 @@ class TwoRowPage extends StatelessWidget {
 
         child: Column(
           children: [
-
-            // TEXTO NO MEIO
             const Center(
               child: Text(
                 '2 linhas',

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//Julia Helena Diniz
 
 void main() {
   runApp(const MyApp());
@@ -30,8 +29,6 @@ class TwoColumnPage extends StatelessWidget {
 
         child: Column(
           children: [
-
-            // TEXTO NO MEIO
             const Center(
               child: Text(
                 '2 colunas',

@@ -27,8 +27,6 @@ class FourRowPage extends StatelessWidget {
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
-
-            // TEXTO NO MEIO
             const Center(
               child: Text(
                 '4 linhas',
